@@ -1,4 +1,7 @@
-AWS EC2 - Management Console
+---
+layout: post
+title: AWS EC2 - Management Console
+---
 
 A Blog post to explain the basic concepts of AWS EC2(Amazon Web Service Elastic Compute Cloud) service. 
 
